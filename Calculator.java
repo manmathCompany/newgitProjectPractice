@@ -20,5 +20,6 @@ public class CalCulator {
       return a/b;
    }
 
+System.out.prntln("hi");
 }
 
